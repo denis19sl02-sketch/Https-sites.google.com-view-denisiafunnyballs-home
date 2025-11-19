@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   
   <!-- Google Site Verification -->
-  <meta name="google-site-verification" content="fcc94383797d5f9b" />
+  <meta name="google-site-verification" content="Y0TPXpIbpcaoCoSttVeYD9B7bLAZF6LetAE2EA7xFdk" />
 
   <!-- Google AdSense -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6953607729761574"
